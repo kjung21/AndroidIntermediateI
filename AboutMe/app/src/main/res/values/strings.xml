@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Kwan Jung</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hi my name is Kwan Jung.
+        \n\nI am a Software Engineer with a passion for Android Development.
+        \n\nI have a Bachelor of Science in Computer Science from Eastern Michigan University.
+        \nI have experience in Kotlin, Python, JavaScript, and C#.
+        \nI am also familiar with Android Studio, Git, and Linux.
+        \nI am eager to take the next step in my career as an Android Developer.
+        \nI am passionate about mobile development and am committed to staying up-to-date
+        with the latest technologies and best practices.
+        \nI am excited about the opportunity to continue growing my skills
+        and contributing to the team\'s success.
+        \n\nThank you for considering my application.
+        \nI look forward to the opportunity to discuss my qualifications further.\n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">DONE</string>
+</resources>
