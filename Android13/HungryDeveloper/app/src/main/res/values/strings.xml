@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Developer Restaurant</string>
+    <string name="restaurant_name_text_view">Hungry Developer!</string>
+    <string name="appetizer_image_description">Image of Appetizer</string>
+    <string name="main_course_image_description">Image of Main Course</string>
+    <string name="dessert_image_description">Image of Dessert</string>
+    <string name="appetizer_text_view_content">Appetizers</string>
+    <string name="main_course_text_view_content">Main Courses</string>
+    <string name="dessert_text_view_content">Dessert Courses</string>
+    <string name="title_activity_appetizer">Appetizer Activity</string>
+    <string name="title_activity_main_course">Main Course Activity</string>
+    <string name="title_activity_dessert">Dessert Activity</string>
+    <string name="action_to_email">kjung5063@gmail.com</string>
+</resources>
